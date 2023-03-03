@@ -108,7 +108,7 @@ Then, place the file in the `p3_collab-compet/` folder in the course GitHub repo
 
 # Instructions
  
-Open the file `Continuous_Control.ipynb` (located in the `p3_collab-compet/` folder of the course GitHub repository).
+Open the file `Tennis.ipynb` (located in the `p3_collab-compet/` folder of the course GitHub repository).
 Run through the cells, starting with the first cell.
 Cells after "4.It's Your Turn!" are the implementation that uses a Python API to control the agent.
 When the cell with the ddpg function is executed, training of the model begins.
